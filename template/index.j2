@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>unia.xyz | Kurze URLs zu Seiten der Universität Augsburg</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="new.min.css">
+    <link rel="stylesheet" href="unia.min.css">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+</head>
+
+<body>
+    <header>
+        <h1>unia.xyz</h1>
+        <nav>
+            <span>
+                {% for s in section %}
+                <a href="#{{ s['title'] | anchor }}">{{ s['title'] }}</a> {{ "/" if not loop.last }}
+                {% endfor %}
+            </span>
+        </nav>
+    </header>
+    <blockquote>
+        Hier findest du kurze Links zu oft verwendeten Seiten.<br>
+        Tippe im Browser einfach <code>unia.xyz[/kürzel]</code> ein.
+    </blockquote>
+    {% for s in section %}
+    <section>
+        <h2 id="{{ s['title'] | anchor }}">{{ s['title'] }}</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Beschreibung</th>
+                    <th>Kürzel</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for l in s['link'] %}
+                <tr>
+                    <td>{{ l['desc'] }}</th>
+                    <td><a href="{{ l['target'] }}"><button>{{ l['source'] }}</button></a></th>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+    {% endfor %}
+    <hr>
+    <section><strong>Pro-Tipp:</strong> Du kannst auf der Seite suchen, indem du <kbd>STRG+F</kbd> bzw.
+        <kbd>Command+F</kbd> auf der Tastatur drückst. Auf dem Handy findest den Eintrag "Auf der Seite suchen" im Menü.
+    </section>
+    <hr>
+    <section>
+        Ein Projekt von <a href="https://github.com/dat-leth">Dat</a>.
+    </section>
+    <details>
+        <summary>Build information</summary>
+        <dl>
+            <dt>Last Build</dt>
+            <dd>{{ now() }}</dd>
+        </dl>
+
+        <a href="https://www.netlify.com">
+            <img src="https://www.netlify.com/img/global/badges/netlify-dark.svg" alt="Deploys by Netlify" />
+        </a>
+
+    </details>
+</body>
+
+</html>

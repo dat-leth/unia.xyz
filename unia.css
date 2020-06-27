@@ -1,0 +1,33 @@
+table {
+    table-layout: fixed;
+}
+
+@media only screen and (max-width:600px) {
+    nav {
+        overflow: auto;
+        padding: 1rem 0 1rem 0;
+    }
+
+    nav span {
+        white-space: nowrap;
+    }
+
+    thead {
+        display: none;
+    }
+
+    tbody tr {
+        display: flex;
+        flex-wrap: wrap;
+
+        margin: 5px 0;
+    }
+
+    tbody tr td {
+        flex-basis: 100%;
+    }
+
+    tbody tr td:not(:last-child) {
+        border-bottom: none;
+    }
+}

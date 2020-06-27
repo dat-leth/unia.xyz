@@ -1,0 +1,4 @@
+{% for s in section %}# {{ s['title'] }}
+{% for l in s['link'] %}{{ l['source'] }}{{ "\t" }}{{ l['target'] }}
+{% endfor %}
+{% endfor %}

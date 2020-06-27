@@ -1,0 +1,219 @@
+[[section]]
+title = "Allgemeines"
+    
+    [[section.link]]
+    desc = "Digicampus"
+    source = "/dc"
+    target = "https://digicampus.uni-augsburg.de/"
+     
+    [[section.link]]
+    desc = "Moodle"
+    source = "/moodle"
+    target = "https://moodle.uni-augsburg.de/"
+
+    [[section.link]]
+    desc = "STUDIS"
+    source = "/studis"
+    target = "https://studiswebstud.zv.uni-augsburg.de/FN2AUTH/FN2AuthServlet?op=Login&nologout=true"
+    
+    [[section.link]]
+    desc = "VIBS"
+    source = "/vibs"
+    target = "https://vibs.uni-augsburg.de"
+
+    [[section.link]]
+    desc = "Mensa"
+    source = "/mensa"
+    target = "https://www.uni-augsburg.de/de/services/mensa/"
+
+    [[section.link]]
+    desc = "Hochschulsport"
+    source = "/sport"
+    target = "https://anmeldung.sport.uni-augsburg.de/angebote/aktueller_zeitraum/"
+
+    [[section.link]]
+    desc = "Mathe-Info Discord"
+    source = "/discord"
+    target = "https://discord.gg/SRYedBz"
+
+
+[[section]]
+title = "1. Semester"
+    
+    [[section.link]]
+    desc = "Informatik 1"
+    source = "/info1"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=480d665ffb3620fa935cf709660121bf"
+    
+    [[section.link]]
+    desc = "Programmierkurs"
+    source = "/prog"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=ff19ceeae20a0ed051d8f2d8cd89abac"
+    
+    [[section.link]]
+    desc = "Mathematik für Informatik I"
+    source = "/mfi1"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=4610de95aa64732fd93cdb3e530cd07a"
+    
+    [[section.link]]
+    desc = "Diskrete Strukturen und Logik"
+    source = "/dislo"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=ce7a5912c0ef3060b0841bb823961fa0"
+    
+    [[section.link]]
+    desc = "Lineare Algebra I"
+    source = "/la1"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=4ff4a112c081661cdb9a7ea2cb23d288"
+
+
+[[section]]
+title = "2. Semester"
+    
+    [[section.link]]
+    desc = "Informatik 2"
+    source = "/info2"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=6c8ca5f01e6f82b4a9936b28307bdf07"
+
+    [[section.link]]
+    desc = "Mathematik für Informatik II"
+    source = "/mfi2"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=543cc909fe155e0537addaa5736fb230"
+
+    [[section.link]]
+    desc = "Einführung in die Theoretische Informatik"
+    source = "/ti"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=7a9f2f0c04415d6ab715ae095712abcd"
+
+    [[section.link]]
+    desc = "Analysis I"
+    source = "/ana1"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=ad94e9ef8548e008b04940e8c3c43eaf"
+      
+[[section]]
+title = "3. Semester"
+    
+    [[section.link]]
+    desc = "Informatik 3"
+    source = "/info3"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=1a4d3ad209e4ccd6ab8e3eaf69cebe93"
+
+    [[section.link]]
+    desc = "Stochastik für Informatiker"
+    source = "/sfi"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=90eeec64b6c4f2d2960e194d433d048e"
+
+    [[section.link]]
+    desc = "Datenbanksysteme"
+    source = "/dbs"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=b250e3244f489d636b2f3e88b1f372cf"
+
+
+[[section]]
+title = "4. Semester"
+    
+    [[section.link]]
+    desc = "Systemnahe Informatik"
+    source = "/si"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=1ca79ae3f36b69fda8ee99c1091aeea5"
+
+    [[section.link]]
+    desc = "Softwareprojekt"
+    source = "/sopro"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=697e1aebb1dac080e991865b9de854f4"
+
+    [[section.link]]
+    desc = "Grundlagen der Human-Computer-Interaction / Multimedia Grundlagen II"
+    source = "/ghci"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=c6f60fe57cec2378bdcb24c3b03728ce"
+
+
+[[section]]
+title = "5. Semester"
+    
+    [[section.link]]
+    desc = "Kommunikationssysteme"
+    source = "/kommsys"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=88bc0751f6dce8228196c051c404ba50"
+
+    [[section.link]]
+    desc = "Softwaretechnik"
+    source = "/swt"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=3f26e52c7a566c54777651f3a86458f9"
+
+    [[section.link]]
+    desc = "Grundlagen der Signalverarbeitung und des maschinellen Lernens / Multimedia Grundlagen I"
+    source = "/svml"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=a95a2987b4db0858fd30cdf6b7a16b79"
+
+
+[[section]]
+title = "Wahlbereich"
+    
+
+
+[[section]]
+title = "Modulhandbuch"
+    
+    [[section.link]]
+    desc = "Informatik"
+    source = "/mhb-inf"
+    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Informatik+%28Hauptfach%29/"
+    
+    [[section.link]]
+    desc = "Informatik und Multimedia"
+    source = "/mhb-infmm"
+    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Informatik+und+Multimedia+%28Hauptfach%29/"
+    
+    [[section.link]]
+    desc = "Medizinische Informatik"
+    source = "/mhb-medinf"
+    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Medizinische+Informatik+%28Hauptfach%29/"
+    
+    [[section.link]]
+    desc = "Ingenieurinformatik"
+    source = "/mhb-inginf"
+    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Ingenieurinformatik+%28Hauptfach%29/"
+    
+    [[section.link]]
+    desc = "Geoinformatik"
+    source = "/mhb-geoinf"
+    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Geoinformatik+%28Hauptfach%29/"
+    
+    [[section.link]]
+    desc = "Wirtschaftsinformatik"
+    source = "/mhb-win"
+    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Wirtschaftsinformatik+%28Hauptfach%29/"
+
+
+[[section]]
+title = "Prüfungsordnung"
+    
+    [[section.link]]
+    desc = "Informatik"
+    source = "/po-inf"
+    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Informatik/"
+    
+    [[section.link]]
+    desc = "Informatik und Multimedia"
+    source = "/po-infmm"
+    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Informatik_und_Multimedia/"
+    
+    [[section.link]]
+    desc = "Medizinische Informatik"
+    source = "/po-medinf"
+    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Medizinische_Informatik/"
+    
+    [[section.link]]
+    desc = "Ingenieurinformatik"
+    source = "/po-inginf"
+    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Ingenieurinformatik/"
+    
+    [[section.link]]
+    desc = "Geoinformatik"
+    source = "/po-geoinf"
+    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Geoinformatik/"
+    
+    [[section.link]]
+    desc = "Wirtschaftsinformatik"
+    source = "/po-win"
+    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Wirtschaftsinformatik/"
