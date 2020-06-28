@@ -23,7 +23,7 @@
         </nav>
     </header>
     <blockquote>
-        Hier findest du kurze Links zu oft verwendeten Seiten.<br>
+        Hier findest du kurze Links zu oft verwendeten Seiten der Universität Augsburg.<br>
         Tippe im Browser einfach <code>unia.xyz[/kürzel]</code> ein.
     </blockquote>
     {% for s in section %}
@@ -53,10 +53,17 @@
     </section>
     <hr>
     <section>
-        Ein Projekt von <a href="https://github.com/dat-leth">Dat</a>.
+        <dl>
+            <dt>Du möchtest <em>neue Links hinzufügen oder veraltete Links aktualisieren</em>?</dt>
+            <dd>Gerne! Erstelle einfach einen Pull Request auf GitHub für <a href="https://github.com/dat-leth/unia.xyz" target="_blank" rel="noopener noreferrer">dieses Git-Repository</a>.</dd>
+            
+            <dt>Du hast Probleme mit der Seite oder den Kurz-URLs?</dt>
+            <dd>Erstelle ein Issue in diesem <a href="https://github.com/dat-leth/unia.xyz" target="_blank" rel="noopener noreferrer">GitHub Projekt</a>.</dd>
+        </dl>
     </section>
+    <hr>
     <details>
-        <summary>Build information</summary>
+        <summary>Ein Projekt von <a href="https://github.com/dat-leth">Dat</a>.</summary>
         <dl>
             <dt>Last Build</dt>
             <dd>{{ now() }}</dd>

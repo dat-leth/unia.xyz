@@ -20,6 +20,16 @@ title = "Allgemeines"
     desc = "VIBS"
     source = "/vibs"
     target = "https://vibs.uni-augsburg.de"
+    
+    [[section.link]]
+    desc = "Fachschaft Informatik"
+    source = "/fs"
+    target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/studierendenvertretung-informatik"
+    
+    [[section.link]]
+    desc = "Klausurtermine"
+    source = "/klausur"
+    target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/klausurtermine-informatik/"
 
     [[section.link]]
     desc = "Mensa"
@@ -39,6 +49,11 @@ title = "Allgemeines"
 
 [[section]]
 title = "1. Semester"
+    
+    [[section.link]]
+    desc = "Vorkurs"
+    source = "/vorkurs"
+    target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/vorkurs/"
     
     [[section.link]]
     desc = "Informatik 1"
@@ -148,7 +163,6 @@ title = "5. Semester"
 
 [[section]]
 title = "Wahlbereich"
-    
 
 
 [[section]]
