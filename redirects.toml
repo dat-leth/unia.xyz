@@ -28,8 +28,13 @@ title = "Allgemeines"
     
     [[section.link]]
     desc = "Klausurtermine"
-    source = "/klausur"
+    source = "/klausurtermine"
     target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/klausurtermine-informatik/"
+    
+    [[section.link]]
+    desc = "Altklausuren"
+    source = "/altklausuren"
+    target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/studierendenvertretung-informatik/altklausuren/"
 
     [[section.link]]
     desc = "Mensa"
