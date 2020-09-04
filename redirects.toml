@@ -2,9 +2,9 @@
 title = "Allgemeines"
     
     [[section.link]]
-    desc = "Digicampus"
+    desc = "Digicampus (Meine Veranstaltungen)"
     source = "/dc"
-    target = "https://digicampus.uni-augsburg.de/"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/my_courses"
      
     [[section.link]]
     desc = "Moodle"
@@ -56,7 +56,12 @@ title = "Allgemeines"
 title = "1. Semester"
     
     [[section.link]]
-    desc = "Vorkurs"
+    desc = "Erstsemestereinführung Informatik"
+    source = "/ese"
+    target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/erstsemestereinfuhrung/"
+
+    [[section.link]]
+    desc = "Informationen zu Vor-/Brückenkursen"
     source = "/vorkurs"
     target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/vorkurs/"
     
