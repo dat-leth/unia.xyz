@@ -27,6 +27,11 @@ title = "Allgemeines"
     target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/studierendenvertretung-informatik"
     
     [[section.link]]
+    desc = "Fachschaft Mathematik"
+    source = "/fsmath"
+    target = "https://www.uni-augsburg.de/de/fakultaet/mntf/math/fachschaft/"
+
+    [[section.link]]
     desc = "Klausurtermine"
     source = "/klausurtermine"
     target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/klausurtermine-informatik/"
