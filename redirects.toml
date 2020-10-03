@@ -61,9 +61,9 @@ title = "Allgemeines"
 title = "1. Semester"
     
     [[section.link]]
-    desc = "Erstsemestereinführung Informatik"
-    source = "/ese"
-    target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/erstsemestereinfuhrung/"
+    desc = "Informationen für Erstsemester"
+    source = "/ersti"
+    target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/"
 
     [[section.link]]
     desc = "Informationen zu Vor-/Brückenkursen"
