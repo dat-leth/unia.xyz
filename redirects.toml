@@ -186,32 +186,32 @@ title = "Modulhandbuch"
     [[section.link]]
     desc = "Informatik"
     source = "/mhb-inf"
-    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Informatik+%28Hauptfach%29/"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/54b19e6523e84fa76fa475a5fcbaaf59"
     
     [[section.link]]
     desc = "Informatik und Multimedia"
     source = "/mhb-infmm"
-    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Informatik+und+Multimedia+%28Hauptfach%29/"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/b5a88d8f5d2287c2332017de25810874"
     
     [[section.link]]
     desc = "Medizinische Informatik"
     source = "/mhb-medinf"
-    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Medizinische+Informatik+%28Hauptfach%29/"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/ce47d910e566de921fa532a03033dd37"
     
     [[section.link]]
     desc = "Ingenieurinformatik"
     source = "/mhb-inginf"
-    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Ingenieurinformatik+%28Hauptfach%29/"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/3a1f1abdcdee77f9779b2bcc0464579b"
     
     [[section.link]]
     desc = "Geoinformatik"
     source = "/mhb-geoinf"
-    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Geoinformatik+%28Hauptfach%29/"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/f3627155bcec808eb33a4079294fab5f"
     
     [[section.link]]
     desc = "Wirtschaftsinformatik"
     source = "/mhb-win"
-    target = "https://mhb.uni-augsburg.de/BachelorStudiengaenge/Bachelor+of+Science/Wirtschaftsinformatik+%28Hauptfach%29/"
+    target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/7e443f73fa6b7a628f6c04d31b41e8a1"
 
 
 [[section]]
