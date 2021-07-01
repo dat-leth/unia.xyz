@@ -61,6 +61,11 @@ title = "Allgemeines"
     source = "/rueckmeldung"
     target = "https://www.uni-augsburg.de/de/studium/organisation-beratung/organisation-und-formales/rueckmeldung/"
 
+    [[section.link]]
+    desc = "Stundenpläne, Lehrveranstaltungen und Module"
+    source = "/lehrveranstaltungen"
+    target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/lehre/"
+
 [[section]]
 title = "1. Semester"
     
@@ -224,29 +229,29 @@ title = "Prüfungsordnung"
     [[section.link]]
     desc = "Informatik"
     source = "/po-inf"
-    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Informatik/"
+    target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-informatik/"
     
     [[section.link]]
     desc = "Informatik und Multimedia"
     source = "/po-infmm"
-    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Informatik_und_Multimedia/"
+    target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-informatik-und-multimedia/"
     
     [[section.link]]
     desc = "Medizinische Informatik"
     source = "/po-medinf"
-    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Medizinische_Informatik/"
+    target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-medizinische-informatik/"
     
     [[section.link]]
     desc = "Ingenieurinformatik"
     source = "/po-inginf"
-    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Ingenieurinformatik/"
+    target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-ingenieurinformatik/"
     
     [[section.link]]
     desc = "Geoinformatik"
     source = "/po-geoinf"
-    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Geoinformatik/"
+    target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-geoinformatik/"
     
     [[section.link]]
     desc = "Wirtschaftsinformatik"
     source = "/po-win"
-    target = "https://www.zv.uni-augsburg.de/de/sammlung/Rechtssammlung_der_Fakultaeten/Fakultaet_fuer_Angewandte_Informatik/Studiengaenge/Bachelorstudiengaenge/Wirtschaftsinformatik/"
+    target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-wirtschaftsinformatik/"
