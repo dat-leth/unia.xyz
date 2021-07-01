@@ -56,6 +56,10 @@ title = "Allgemeines"
     source = "/discord"
     target = "https://discord.gg/SRYedBz"
 
+    [[section.link]]
+    desc = "Informationen zur Rückmeldung"
+    source = "/rueckmeldung"
+    target = "https://www.uni-augsburg.de/de/studium/organisation-beratung/organisation-und-formales/rueckmeldung/"
 
 [[section]]
 title = "1. Semester"
