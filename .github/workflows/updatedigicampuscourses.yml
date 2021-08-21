@@ -8,13 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
         with:
           python-version: '3.x'
       - run: |
           python3 -m pip install BeautifulSoup4 requests
       - name: Run Python Script
-      - run: |
+        run: |
           python scriptlocation.py
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
