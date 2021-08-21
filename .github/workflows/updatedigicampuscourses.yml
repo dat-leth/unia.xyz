@@ -1,1 +1,26 @@
 
+name: Update Digicampus Shortlinks
+on:
+  schedule:
+    - cron:  '0 0 1 4,10 *'
+jobs:
+  update-digicampus-shortlinks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setting up Python
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - run: |
+          python3 -m pip install BeautifulSoup4 requests
+      - name: Run Python Script
+      - run: |
+          python scriptlocation.py
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Digicampus Links Scraped and Updated
+          title: Neues Semester neue Digicampus Links. Frisch von der Quelle.
+          body: Bitte Testet ein Paar links um zu sehen ob es funktioniert.
+          branch: digicampus-updates
