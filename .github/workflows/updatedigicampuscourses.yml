@@ -1,8 +1,9 @@
 
 name: Update Digicampus Shortlinks
 on:
-  schedule:
-    - cron:  '0 0 1 4,10 *'
+  workflow_dispatch
+#  schedule:
+#    - cron:  '0 0 1 4,10 *'
 jobs:
   update-digicampus-shortlinks:
     runs-on: ubuntu-latest
