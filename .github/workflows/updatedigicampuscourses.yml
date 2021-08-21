@@ -17,6 +17,7 @@ jobs:
           python3 -m pip install BeautifulSoup4 requests
       - name: Run Python Script
         run: |
+          ls -a
           python scrapevorleungsverzeichnis.py
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
