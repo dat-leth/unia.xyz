@@ -1,8 +1,6 @@
 import requests
 import toml
 from bs4 import BeautifulSoup
-from fuzzywuzzy import fuzz
-from fuzzywuzzy import process
 
 # Getting the website
 url = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/lehre/bsc-inf2018/"
