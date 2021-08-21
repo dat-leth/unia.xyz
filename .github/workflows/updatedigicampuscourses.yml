@@ -14,7 +14,7 @@ jobs:
         with:
           python-version: '3.x'
       - run: |
-          python3 -m pip install BeautifulSoup4 requests
+          python3 -m pip install BeautifulSoup4 requests toml tomlkit
       - name: Run Python Script
         run: |
           ls -a
