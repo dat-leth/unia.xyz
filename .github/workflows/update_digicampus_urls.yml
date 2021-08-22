@@ -24,6 +24,6 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           commit-message: Automatically updated redirects.toml with new Digicampus URLs
-          title: [Bot] Update Digicampus URLs for courses
+          title: "[Bot] Update Digicampus URLs for courses"
           body: Shortlinks may be tested first before merging pull request.
           branch: digicampus-updates
