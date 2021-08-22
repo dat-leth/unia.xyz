@@ -1,0 +1,29 @@
+name: Update Digicampus Shortlinks
+on:
+  workflow_dispatch
+#  schedule:
+#    - cron:  '0 0 1 4,10 *'
+jobs:
+  update-digicampus-shortlinks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - run: |
+          pip install -r ./update_redirects/requirements.txt
+
+      - name: Run Scraper
+        run: |
+          python ./update_redirects/scraper.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Automatically updated redirects.toml with new Digicampus URLs
+          title: "[Bot] Update Digicampus URLs for courses"
+          body: Shortlinks may be tested first before merging pull request.
+          branch: digicampus-updates
