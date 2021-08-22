@@ -1,4 +1,3 @@
-
 name: Update Digicampus Shortlinks
 on:
   workflow_dispatch
@@ -9,20 +8,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
       - run: |
-          python3 -m pip install BeautifulSoup4 requests toml tomlkit
-      - name: Run Python Script
+          pip install -r ./update_redirects/requirements.txt
+
+      - name: Run Scraper
         run: |
-          ls -a
-          python scrapevorleungsverzeichnis.py
+          python ./update_redirects/scraper.py
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          commit-message: Digicampus Links Scraped and Updated
-          title: Neues Semester neue Digicampus Links. Frisch von der Quelle.
-          body: Bitte Testet ein Paar links um zu sehen ob es funktioniert.
+          commit-message: Automatically updated redirects.toml with new Digicampus URLs
+          title: [Bot] Update Digicampus URLs for courses
+          body: Shortlinks may be tested first before merging pull request.
           branch: digicampus-updates

@@ -19,24 +19,24 @@ with open('./redirects.toml', 'r') as file:
     redirects = toml.loads(file.read())
 
 uni_key_from = {
-    "Informatik 1": ["Platzhalter"],
+    "Informatik 1": ["Informatik 1"],
     "Programmierkurs": ["Java-Programmierkurs", "C-Programmierkurs"],
-    "Mathematik für Informatik I": ["Platzhalter"],
-    "Diskrete Strukturen und Logik": ["Platzhalter"],
+    "Mathematik für Informatik I": ["Mathematik für Informatiker I"],
+    "Diskrete Strukturen und Logik": ["Diskrete Strukturen und Logik (beinhaltet Diskrete Strukturen für Informatiker)"],
     "Lineare Algebra I": ["Lineare Algebra I"],
     "Informatik 2": ["Informatik 2"],
     "Mathematik für Informatik II": ["Mathematik für Informatiker II"],
     "Einführung in die Theoretische Informatik": ["Einführung in die Theoretische Informatik"],
     "Analysis I": ["Analysis 1"],
-    "Informatik 3": ["Platzhalter"],
-    "Stochastik für Informatiker": ["Platzhalter"],
-    "Datenbanksysteme": ["Platzhalter"],
+    "Informatik 3": ["Informatik III", 'Informatik 3'],
+    "Stochastik für Informatiker": ["Stochastik für Informatiker"],
+    "Datenbanksysteme": ["Datenbanksysteme I"],
     "Systemnahe Informatik": ["Systemnahe Informatik"],
     "Softwareprojekt": ["Softwareprojekt"],
     "Grundlagen der Human-Computer-Interaction / Multimedia Grundlagen II":
         ["Grundlagen der Human-Computer Interaction / Multimedia Grundlagen II"],
-    "Kommunikationssysteme": ["Platzhalter"],
-    "Grundlagen der Signalverarbeitung und des maschinellen Lernens / Multimedia Grundlagen I": ["Platzhalter"],
+    "Kommunikationssysteme": ["Kommunikationssysteme"],
+    "Grundlagen der Signalverarbeitung und des maschinellen Lernens / Multimedia Grundlagen I": ["Grundlagen der Signalverarbeitung und des Maschinellen Lernens (Multimedia Grundlagen I)"],
 }
 
 # Modify Toml representation
