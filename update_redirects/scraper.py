@@ -20,7 +20,7 @@ with open('./redirects.toml', 'r') as file:
 
 uni_key_from = {
     "Informatik 1": ["Informatik 1"],
-    "Programmierkurs": ["Java-Programmierkurs", "C-Programmierkurs"],
+    "Programmierkurs": ["Java-Programmierkurs", "C-Programmierkurs", "Programmierkurs in C"],
     "Mathematik für Informatik I": ["Mathematik für Informatiker I"],
     "Diskrete Strukturen und Logik": ["Diskrete Strukturen und Logik (beinhaltet Diskrete Strukturen für Informatiker)"],
     "Lineare Algebra I": ["Lineare Algebra I"],
@@ -37,6 +37,8 @@ uni_key_from = {
         ["Grundlagen der Human-Computer Interaction / Multimedia Grundlagen II"],
     "Kommunikationssysteme": ["Kommunikationssysteme"],
     "Grundlagen der Signalverarbeitung und des maschinellen Lernens / Multimedia Grundlagen I": ["Grundlagen der Signalverarbeitung und des Maschinellen Lernens (Multimedia Grundlagen I)"],
+    "Softwaretechnik": ["Softwaretechnik"],
+
 }
 
 # Modify Toml representation
@@ -46,7 +48,7 @@ for section in redirects["section"]:
             if our_link["desc"] in uni_key_from:                    # Is our redirect one that can be updated?
                 for uni_link in uni_key_from[our_link["desc"]]:     # Iterate all possible Names the uni will give it
                     if uni_link in uni_links:                       # Was it found on the Website as that name?
-                        our_link["link"] = uni_links[uni_link]      # Update the link we use
+                        our_link["target"] = uni_links[uni_link]    # Update the link we use
                         print(our_link["desc"] + " <- " + uni_link) # Display the updated links for diagnostic purposes
 
 # Safe Toml file
