@@ -20,7 +20,7 @@ with open('./redirects.toml', 'r') as file:
 
 uni_key_from = {
     "Informatik 1": ["Informatik 1"],
-    "Programmierkurs": ["Java-Programmierkurs", "C-Programmierkurs"],
+    "Programmierkurs": ["Java-Programmierkurs", "C-Programmierkurs", "Programmierkurs in C"],
     "Mathematik für Informatik I": ["Mathematik für Informatiker I"],
     "Diskrete Strukturen und Logik": ["Diskrete Strukturen und Logik (beinhaltet Diskrete Strukturen für Informatiker)"],
     "Lineare Algebra I": ["Lineare Algebra I"],
@@ -37,6 +37,8 @@ uni_key_from = {
         ["Grundlagen der Human-Computer Interaction / Multimedia Grundlagen II"],
     "Kommunikationssysteme": ["Kommunikationssysteme"],
     "Grundlagen der Signalverarbeitung und des maschinellen Lernens / Multimedia Grundlagen I": ["Grundlagen der Signalverarbeitung und des Maschinellen Lernens (Multimedia Grundlagen I)"],
+    "Softwaretechnik": ["Softwaretechnik"],
+
 }
 
 # Modify Toml representation
