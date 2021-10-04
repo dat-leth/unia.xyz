@@ -46,7 +46,7 @@ for section in redirects["section"]:
             if our_link["desc"] in uni_key_from:                    # Is our redirect one that can be updated?
                 for uni_link in uni_key_from[our_link["desc"]]:     # Iterate all possible Names the uni will give it
                     if uni_link in uni_links:                       # Was it found on the Website as that name?
-                        our_link["link"] = uni_links[uni_link]      # Update the link we use
+                        our_link["target"] = uni_links[uni_link]    # Update the link we use
                         print(our_link["desc"] + " <- " + uni_link) # Display the updated links for diagnostic purposes
 
 # Safe Toml file
