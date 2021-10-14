@@ -259,3 +259,21 @@ source = "/po-win"
 target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-wirtschaftsinformatik/"
 
 
+[[section]]
+title = "Klokurier"
+[[section.link]]
+desc = "Anmeldung Spieleabend"
+source = "/spieleabend"
+target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-informatik/"
+
+[[section.link]]
+desc = "Anmeldung Kneipentour"
+source = "/kneip"
+target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-informatik-und-multimedia/"
+
+[[section.link]]
+desc = "Erstiheft Informatik"
+source = "/erstiheft"
+target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-medizinische-informatik/"
+
+
