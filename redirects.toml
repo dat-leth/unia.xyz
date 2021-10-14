@@ -261,19 +261,15 @@ target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-wi
 
 [[section]]
 title = "Klokurier"
-[[section.link]]
-desc = "Anmeldung Spieleabend"
-source = "/spieleabend"
-target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-informatik/"
 
 [[section.link]]
 desc = "Anmeldung Kneipentour"
 source = "/kneip"
-target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-informatik-und-multimedia/"
+target = "forms.gle/x9nUhedaU9c4W73z5 "
 
 [[section.link]]
 desc = "Erstiheft Informatik"
 source = "/erstiheft"
-target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-medizinische-informatik/"
+target = "https://cdn.discordapp.com/attachments/758399283526500452/896051245914161182/Erstiheft_2021_digital_compressed.pdf"
 
 
