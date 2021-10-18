@@ -259,3 +259,17 @@ source = "/po-win"
 target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-wirtschaftsinformatik/"
 
 
+[[section]]
+title = "Klokurier"
+
+[[section.link]]
+desc = "Anmeldung Kneipentour"
+source = "/kneip"
+target = "https://forms.gle/x9nUhedaU9c4W73z5"
+
+[[section.link]]
+desc = "Erstiheft Informatik"
+source = "/erstiheft"
+target = "https://cdn.discordapp.com/attachments/758399283526500452/896051245914161182/Erstiheft_2021_digital_compressed.pdf"
+
+
