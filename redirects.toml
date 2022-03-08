@@ -65,6 +65,11 @@ desc = "Stundenpläne, Lehrveranstaltungen und Module"
 source = "/lehrveranstaltungen"
 target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/lehre/"
 
+[[section.link]]
+desc = "Beratungsangebote"
+source = "/beratung"
+target = "https://www.uni-augsburg.de/de/studium/organisation-beratung/beratung/"
+
 
 [[section]]
 title = "1. Semester"
