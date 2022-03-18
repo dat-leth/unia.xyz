@@ -107,7 +107,7 @@ target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=
 [[section.link]]
 desc = "Lineare Algebra I"
 source = "/la1"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=f7ff6840f1414ab18c790d24a4c63be4"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=531c854510f610a140eea535f957684e"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=7a6962baafd363f26786ee5fd6b01813"
 
 
@@ -116,25 +116,25 @@ title = "2. Semester"
 [[section.link]]
 desc = "Informatik 2"
 source = "/info2"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=6c8ca5f01e6f82b4a9936b28307bdf07"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=b08e21d29409e4ddd61e15d381bbb8f7"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=e48ce3c01e6fdc46665ef324116ee4fb"
 
 [[section.link]]
 desc = "Mathematik für Informatik II"
 source = "/mfi2"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=543cc909fe155e0537addaa5736fb230"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=75de1b4b62256025ed1be9761e561785"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=4edb5ac81536bc53949739f602db15a5"
 
 [[section.link]]
 desc = "Einführung in die Theoretische Informatik"
 source = "/ti"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=7a9f2f0c04415d6ab715ae095712abcd"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=6d78e28c022e11305adea13838a2a0f8"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=9c00aff4376e6e6cf7b93f315b7c56d0"
 
 [[section.link]]
 desc = "Analysis I"
 source = "/ana1"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=ad94e9ef8548e008b04940e8c3c43eaf"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=23a7c955faa7b1b65ea0c8e990c6cbe2"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=690daad9e621b341cf5695479ff13191"
 
 
@@ -161,19 +161,19 @@ title = "4. Semester"
 [[section.link]]
 desc = "Systemnahe Informatik"
 source = "/si"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=1ca79ae3f36b69fda8ee99c1091aeea5"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=b1ceec6bf508d7bae84679fe9f038e84"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=dcface4ecfa9134ee078fe852591cb49"
 
 [[section.link]]
 desc = "Softwareprojekt"
 source = "/sopro"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=697e1aebb1dac080e991865b9de854f4"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=ea34f74a22492ed252e8b0d4e9a3c521"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=17d0d4d40882454657836b4999bb1dd7"
 
 [[section.link]]
 desc = "Grundlagen der Human-Computer-Interaction / Multimedia Grundlagen II"
 source = "/ghci"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details/?sem_id=c6f60fe57cec2378bdcb24c3b03728ce"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=400900123675975df97c8303d748c980"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=22de509345a969f74ea16ce65a448476"
 
 
@@ -266,7 +266,6 @@ target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-wi
 
 [[section]]
 title = "Klokurier"
-
 [[section.link]]
 desc = "Anmeldung Kneipentour"
 source = "/kneip"
