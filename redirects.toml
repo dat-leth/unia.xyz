@@ -43,7 +43,17 @@ target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfange
 [[section.link]]
 desc = "Mensa"
 source = "/mensa"
-target = "https://www.uni-augsburg.de/de/services/mensa/"
+target = "https://studentenwerk.online/hg-oeffnungszeiten"
+
+[[section.link]]
+desc = "Universitätsbibliothek"
+source = "/bib"
+target = "https://www.uni-augsburg.de/de/organisation/bibliothek/"
+
+[[section.link]]
+desc = "OPAC"
+source = "/opac"
+target = "https://opac.bibliothek.uni-augsburg.de/"
 
 [[section.link]]
 desc = "Hochschulsport"
