@@ -276,10 +276,6 @@ target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-wi
 
 [[section]]
 title = "Klokurier"
-[[section.link]]
-desc = "Anmeldung Kneipentour"
-source = "/kneip"
-target = "https://forms.gle/x9nUhedaU9c4W73z5"
 
 [[section.link]]
 desc = "Erstiheft Informatik"
