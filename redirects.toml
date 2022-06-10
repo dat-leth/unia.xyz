@@ -21,6 +21,11 @@ source = "/vibs"
 target = "https://vibs.uni-augsburg.de"
 
 [[section.link]]
+desc = "eduroam"
+source = "/eduroam"
+target = "https://confluence.rz.uni-augsburg.de/display/RZSER/Nutzung+von+eduroam#Nutzungvoneduroam-HiergehteszudenAnleitungenf%C3%BCrdieverschiedenenBetriebssysteme:"
+
+[[section.link]]
 desc = "Fachschaft Informatik"
 source = "/fs"
 target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/studierendenvertretung-informatik"
@@ -39,6 +44,11 @@ target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/klausu
 desc = "Altklausuren"
 source = "/altklausuren"
 target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfanger/studierendenvertretung-informatik/altklausuren/"
+
+[[section.link]]
+desc = "Prüfungsamt"
+source = "/pruefungsamt"
+target = "https://www.uni-augsburg.de/de/studium/organisation-beratung/pruefungen/infos-und-antrage/fakultat-fur-angewandte-informatik-pruefungen/"
 
 [[section.link]]
 desc = "Mensa"
