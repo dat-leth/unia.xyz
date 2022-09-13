@@ -286,7 +286,6 @@ target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-wi
 
 [[section]]
 title = "Klokurier"
-
 [[section.link]]
 desc = "Erstiheft Informatik"
 source = "/erstiheft"
