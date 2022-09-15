@@ -11,7 +11,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 courses = soup.find('div', class_="textEditorContent").findAll('a')
 uni_links = {}
 for course in courses:
-    uni_links[course.find('b').string] = course.get('href')
+    uni_links[course.find('b').string.strip()] = course.get('href')
 
 
 # Open Toml file for redirects
