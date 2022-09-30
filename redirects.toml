@@ -301,4 +301,7 @@ desc = "Erstiheft Informatik"
 source = "/erstiheft"
 target = "https://cdn.discordapp.com/attachments/758399283526500452/896051245914161182/Erstiheft_2021_digital_compressed.pdf"
 
-
+[[section.link]]
+desc = "Kneipentour Anmeldung"
+source = "/kneip"
+target = "https://docs.google.com/forms/d/e/1FAIpQLSdl49Jky-DgLUZ8LihTScW8UPUYQ1O3kyMw7vVq4m-CvSFnfg/viewform"
