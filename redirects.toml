@@ -293,7 +293,6 @@ desc = "Data Science"
 source = "/po-ds"
 target = "https://www.uni-augsburg.de/de/services/rechtssammlung/BScDataSc/"
 
-
 [[section]]
 title = "Klokurier"
 [[section.link]]
@@ -301,4 +300,7 @@ desc = "Erstiheft Informatik"
 source = "/erstiheft"
 target = "https://megastore.rz.uni-augsburg.de/get/S5z6Qnd9hT/"
 
-
+[[section.link]]
+desc = "Kneipentour Anmeldung"
+source = "/kneip"
+target = "https://docs.google.com/forms/d/e/1FAIpQLSdl49Jky-DgLUZ8LihTScW8UPUYQ1O3kyMw7vVq4m-CvSFnfg/viewform"
