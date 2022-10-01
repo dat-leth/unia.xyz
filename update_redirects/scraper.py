@@ -15,7 +15,7 @@ for course in courses:
 
 
 # Open Toml file for redirects
-with open('./redirects.toml', 'r') as file:
+with open('./redirects.toml', 'r', encoding='utf-8') as file:
     redirects = toml.loads(file.read())
 
 uni_key_from = {
@@ -52,6 +52,6 @@ for section in redirects["section"]:
                         print(our_link["desc"] + " <- " + uni_link) # Display the updated links for diagnostic purposes
 
 # Safe Toml file
-with open('./redirects.toml', 'w') as file:
+with open('./redirects.toml', 'w', encoding='utf-8') as file:
     file.write(toml.dumps(redirects))
 

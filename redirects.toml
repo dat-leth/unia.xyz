@@ -293,7 +293,6 @@ desc = "Data Science"
 source = "/po-ds"
 target = "https://www.uni-augsburg.de/de/services/rechtssammlung/BScDataSc/"
 
-
 [[section]]
 title = "Klokurier"
 [[section.link]]
