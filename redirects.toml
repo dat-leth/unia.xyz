@@ -307,3 +307,9 @@ source = "/kneip"
 target = "https://docs.google.com/forms/d/e/1FAIpQLSdl49Jky-DgLUZ8LihTScW8UPUYQ1O3kyMw7vVq4m-CvSFnfg/viewform"
 
 
+[[section]]
+title = "Feedback"
+[[section.link]]
+desc = "Feedback-Pad der Fachschaft Informatik und Fachschaft Mathe"
+source = "/feedback"
+target = "https://pentapad.c3d2.de/p/Feedback"
