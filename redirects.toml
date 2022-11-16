@@ -309,6 +309,7 @@ target = "https://docs.google.com/forms/d/e/1FAIpQLSdl49Jky-DgLUZ8LihTScW8UPUYQ1
 
 [[section]]
 title = "Feedback"
+
 [[section.link]]
 desc = "Feedback-Pad der Fachschaft Informatik und Fachschaft Mathe"
 source = "/feedback"
