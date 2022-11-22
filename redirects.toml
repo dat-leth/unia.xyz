@@ -295,15 +295,15 @@ target = "https://www.uni-augsburg.de/de/services/rechtssammlung/BScDataSc/"
 
 
 [[section]]
-title = "Klokurier"
+title = "Fachschaft Informatik (asinf)"
+
+[[section.link]]
+desc = "Mario Kart Turnier Anmeldung"
+source = "/mariokart"
+target = "https://forms.gle/4nkcPX7sDYRyEYrr6"
+
 [[section.link]]
 desc = "Erstiheft Informatik"
 source = "/erstiheft"
 target = "https://fachschaft-info.de/erstiheft.pdf"
-
-[[section.link]]
-desc = "Kneipentour Anmeldung"
-source = "/kneip"
-target = "https://docs.google.com/forms/d/e/1FAIpQLSdl49Jky-DgLUZ8LihTScW8UPUYQ1O3kyMw7vVq4m-CvSFnfg/viewform"
-
 
