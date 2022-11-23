@@ -311,6 +311,6 @@ target = "https://docs.google.com/forms/d/e/1FAIpQLSdl49Jky-DgLUZ8LihTScW8UPUYQ1
 title = "Feedback"
 
 [[section.link]]
-desc = "Feedback-Pad der Fachschaft Informatik und Fachschaft Mathe"
+desc = "Feedback-Pad der Fachschaft Mathe"
 source = "/feedback"
 target = "https://pentapad.c3d2.de/p/Feedback"
