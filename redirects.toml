@@ -303,6 +303,11 @@ source = "/mariokart"
 target = "https://forms.gle/4nkcPX7sDYRyEYrr6"
 
 [[section.link]]
+desc = "Mario Kart Turnier Turnierbaum"
+source = "/turnierbaum"
+target = "https://docs.google.com/spreadsheets/d/1vTpNL3Qm5lj9Hb2WYC1O5bCGQroQjkIINgJ3ENp1f3I/edit?usp=sharing"
+
+[[section.link]]
 desc = "Erstiheft Informatik"
 source = "/erstiheft"
 target = "https://fachschaft-info.de/erstiheft.pdf"
