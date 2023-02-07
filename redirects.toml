@@ -115,7 +115,7 @@ target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=3c0108874173b54b7d38a7278db393c6"
 
 [[section.link]]
-desc = "Mathematik für Informatik I"
+desc = "Mathematik für Informatiker I"
 source = "/mfi1"
 target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=14d11dc50c0052240fa68dc410f768e4"
 
@@ -140,7 +140,7 @@ target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=e48ce3c01e6fdc46665ef324116ee4fb"
 
 [[section.link]]
-desc = "Mathematik für Informatik II"
+desc = "Mathematik für Informatiker II"
 source = "/mfi2"
 target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=75de1b4b62256025ed1be9761e561785"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=4edb5ac81536bc53949739f602db15a5"
