@@ -21,11 +21,11 @@ with open('./redirects.toml', 'r', encoding='utf-8') as file:
 uni_key_from = {
     "Informatik 1": ["Informatik 1"],
     "Programmierkurs": ["Java-Programmierkurs", "C-Programmierkurs", "Programmierkurs in C"],
-    "Mathematik für Informatik I": ["Mathematik für Informatiker I"],
+    "Mathematik für Informatiker I": ["Mathematik für Informatiker I"],
     "Diskrete Strukturen und Logik": ["Diskrete Strukturen und Logik (beinhaltet Diskrete Strukturen für Informatiker)"],
     "Lineare Algebra I": ["Lineare Algebra I"],
     "Informatik 2": ["Informatik 2"],
-    "Mathematik für Informatik II": ["Mathematik für Informatiker II"],
+    "Mathematik für Informatiker II": ["Mathematik für Informatiker II"],
     "Einführung in die Theoretische Informatik": ["Einführung in die Theoretische Informatik"],
     "Analysis I": ["Analysis 1"],
     "Informatik 3": ["Informatik III", 'Informatik 3'],
