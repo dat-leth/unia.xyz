@@ -130,7 +130,6 @@ source = "/la1"
 target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=d6f54d7bcafd8528dab6c61dfea95197"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=7a6962baafd363f26786ee5fd6b01813"
 
-
 [[section]]
 title = "2. Semester"
 [[section.link]]
@@ -154,8 +153,7 @@ link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=9c
 [[section.link]]
 desc = "Analysis I"
 source = "/ana1"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=23a7c955faa7b1b65ea0c8e990c6cbe2"
-link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=690daad9e621b341cf5695479ff13191"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=8be63e77d1b81bff688f69632898d833"
 
 
 [[section]]
