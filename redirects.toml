@@ -111,7 +111,7 @@ target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=
 [[section.link]]
 desc = "Programmierkurs"
 source = "/prog"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=b8fe14331c0fda489a1c8a9781a2d4ef"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=ba5a77e30f374d930ee901ba223b087d"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=3c0108874173b54b7d38a7278db393c6"
 
 [[section.link]]
@@ -127,7 +127,7 @@ target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=
 [[section.link]]
 desc = "Lineare Algebra I"
 source = "/la1"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=f77349eb56f840116c527f3b5a499508"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=d6f54d7bcafd8528dab6c61dfea95197"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=7a6962baafd363f26786ee5fd6b01813"
 
 
@@ -136,19 +136,19 @@ title = "2. Semester"
 [[section.link]]
 desc = "Informatik 2"
 source = "/info2"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=b08e21d29409e4ddd61e15d381bbb8f7"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=27109f15584353149791b88f594776b1"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=e48ce3c01e6fdc46665ef324116ee4fb"
 
 [[section.link]]
 desc = "Mathematik für Informatiker II"
 source = "/mfi2"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=75de1b4b62256025ed1be9761e561785"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=0469514bfee92ec85f93c64a0a95c874"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=4edb5ac81536bc53949739f602db15a5"
 
 [[section.link]]
 desc = "Einführung in die Theoretische Informatik"
 source = "/ti"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=6d78e28c022e11305adea13838a2a0f8"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=5552ab06b587d6706260324844777573"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=9c00aff4376e6e6cf7b93f315b7c56d0"
 
 [[section.link]]
@@ -181,19 +181,19 @@ title = "4. Semester"
 [[section.link]]
 desc = "Systemnahe Informatik"
 source = "/si"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=b1ceec6bf508d7bae84679fe9f038e84"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=474eb940c68e76b66bf6fe4e040a275c"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=dcface4ecfa9134ee078fe852591cb49"
 
 [[section.link]]
 desc = "Softwareprojekt"
 source = "/sopro"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=ea34f74a22492ed252e8b0d4e9a3c521"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=6ad5ab2276435b1917c9496dd2141aa1"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=17d0d4d40882454657836b4999bb1dd7"
 
 [[section.link]]
 desc = "Grundlagen der Human-Computer-Interaction / Multimedia Grundlagen II"
 source = "/ghci"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=400900123675975df97c8303d748c980"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=877b10e44d3dc61bd4055b2d5adbba5d"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=22de509345a969f74ea16ce65a448476"
 
 
@@ -296,7 +296,6 @@ target = "https://www.uni-augsburg.de/de/services/rechtssammlung/BScDataSc/"
 
 [[section]]
 title = "Fachschaft Informatik (asinf)"
-
 [[section.link]]
 desc = "Mario Kart Turnier Anmeldung"
 source = "/mariokart"
@@ -311,4 +310,5 @@ target = "https://docs.google.com/spreadsheets/d/1vTpNL3Qm5lj9Hb2WYC1O5bCGQroQjk
 desc = "Erstiheft Informatik"
 source = "/erstiheft"
 target = "https://fachschaft-info.de/erstiheft.pdf"
+
 
