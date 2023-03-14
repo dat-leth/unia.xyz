@@ -27,7 +27,7 @@ uni_key_from = {
     "Informatik 2": ["Informatik 2"],
     "Mathematik für Informatiker II": ["Mathematik für Informatiker II"],
     "Einführung in die Theoretische Informatik": ["Einführung in die Theoretische Informatik"],
-    "Analysis I": ["Analysis 1"],
+    "Analysis I": ["Analysis 1", "Analysis I"],
     "Informatik 3": ["Informatik III", 'Informatik 3'],
     "Stochastik für Informatiker": ["Stochastik für Informatiker"],
     "Datenbanksysteme": ["Datenbanksysteme I"],
