@@ -310,3 +310,10 @@ source = "/erstiheft"
 target = "https://fachschaft-info.de/erstiheft.pdf"
 
 
+[[section]]
+title = "Feedback"
+
+[[section.link]]
+desc = "Feedback-Pad der Fachschaft Mathe"
+source = "/feedback"
+target = "https://pentapad.c3d2.de/p/Feedback"
