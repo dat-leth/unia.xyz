@@ -86,6 +86,11 @@ source = "/lehrveranstaltungen"
 target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/lehre/"
 
 [[section.link]]
+desc = "Fristen und Termine, Vorlesungszeiten, Vorlesungsfreie Tage"
+source = "/vorlesungszeiten"
+target = "https://www.uni-augsburg.de/de/studium/organisation-beratung/fristen-und-termine/"
+
+[[section.link]]
 desc = "Beratungsangebote"
 source = "/beratung"
 target = "https://www.uni-augsburg.de/de/studium/organisation-beratung/beratung/"
