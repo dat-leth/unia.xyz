@@ -300,18 +300,16 @@ target = "https://www.uni-augsburg.de/de/services/rechtssammlung/BScDataSc/"
 [[section]]
 title = "Fachschaft Informatik (asinf)"
 [[section.link]]
-desc = "Mario Kart Turnier Anmeldung"
-source = "/mariokart"
-target = "https://forms.gle/4nkcPX7sDYRyEYrr6"
-
-[[section.link]]
-desc = "Mario Kart Turnier Turnierbaum"
-source = "/turnierbaum"
-target = "https://docs.google.com/spreadsheets/d/1vTpNL3Qm5lj9Hb2WYC1O5bCGQroQjkIINgJ3ENp1f3I/edit?usp=sharing"
-
-[[section.link]]
 desc = "Erstiheft Informatik"
 source = "/erstiheft"
 target = "https://fachschaft-info.de/erstiheft.pdf"
 
+[[section.link]]
+desc = "Anmeldung Kneipentour"
+source = "/kneip"
+target = "https://docs.google.com/forms/d/e/1FAIpQLSdZ6liFOKJ80doo85cF3NiYHmoopmYufjc--lrAFmOz0SMTBw/viewform?usp=sf_link"
 
+[[section.link]]
+desc = "Anmeldung Pubquiz"
+source = "/pubquiz"
+target = "https://docs.google.com/forms/d/e/1FAIpQLSe8640ciO2pfSzE6M2YUtwBXXSwUNvamvFvYpNisMTHQ_R0OQ/viewform?usp=sf_link"
