@@ -306,8 +306,8 @@ target = "https://fachschaft-info.de/erstiheft.pdf"
 
 [[section.link]]
 desc = "Anmeldung Kneipentour"
-source = "/kneip"
-target = "https://docs.google.com/forms/d/e/1FAIpQLSdZ6liFOKJ80doo85cF3NiYHmoopmYufjc--lrAFmOz0SMTBw/viewform?usp=sf_link"
+source = "/kneipentour"
+target = "https://forms.gle/NZbYzEsBJ6aJf5Hh8"
 
 [[section.link]]
 desc = "Anmeldung Pubquiz"
