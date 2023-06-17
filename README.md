@@ -1,7 +1,6 @@
 # unia.xyz
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d1c85854-db0d-4443-bb71-670d13fa61b2/deploy-status)](https://app.netlify.com/sites/unia/deploys)
 
-A simple URL shortener from unia.xyz to University of Augsburg's webpages hosted on [Netlify](https://www.netlify.com/) and using Netlify's speedy CDN-based [Redirects API](https://docs.netlify.com/routing/redirects/).
+A simple URL shortener from unia.xyz to University of Augsburg's webpages hosted on [Cloudflare Pages](https://pages.cloudflare.com/) and using Cloudflare's speedy CDN-based [Redirects API](https://developers.cloudflare.com/pages/platform/redirects/).
 
 # Add or update short URLs
 Modify `redirects.toml` and run `python build.py`. The build script will then parse the routing rules and generate the webpage and redirects file for Netlify.
