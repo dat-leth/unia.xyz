@@ -263,6 +263,11 @@ desc = "Data Science"
 source = "/mhb-ds"
 target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/7f0cf0b456169d91be776186d9601388"
 
+[[section.link]]
+desc = "Data Science"
+source = "/mhb-ds"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/466e9c52a2eb140e4bd623c454865d03"
+
 
 [[section]]
 title = "Prüfungsordnung"
@@ -300,6 +305,11 @@ target = "https://www.uni-augsburg.de/de/services/rechtssammlung/fai-bachelor-wi
 desc = "Data Science"
 source = "/po-ds"
 target = "https://www.uni-augsburg.de/de/services/rechtssammlung/BScDataSc/"
+
+[[section.link]]
+desc = "Mathematik und Informatik"
+source = "/po-mui"
+target = "https://www.uni-augsburg.de/de/services/rechtssammlung/BSCMathInf/"
 
 
 [[section]]
