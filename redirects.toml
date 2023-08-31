@@ -264,8 +264,8 @@ source = "/mhb-ds"
 target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/7f0cf0b456169d91be776186d9601388"
 
 [[section.link]]
-desc = "Data Science"
-source = "/mhb-ds"
+desc = "Mathematik und Informatik"
+source = "/mhb-mui"
 target = "https://digicampus.uni-augsburg.de/dispatch.php/search/angebot/studiengang/466e9c52a2eb140e4bd623c454865d03"
 
 
