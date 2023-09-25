@@ -121,29 +121,30 @@ target = "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studienanfange
 [[section.link]]
 desc = "Informatik 1"
 source = "/info1"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=512a515167861658b6b7b33960d058d4"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=50d710d5a0fcdfcedd1adf7d5f24af44"
 
 [[section.link]]
 desc = "Programmierkurs"
 source = "/prog"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=ba5a77e30f374d930ee901ba223b087d"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=0ee7549de5d0952ca3cf319f327fb3ad"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=3c0108874173b54b7d38a7278db393c6"
 
 [[section.link]]
 desc = "Mathematik für Informatiker I"
 source = "/mfi1"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=14d11dc50c0052240fa68dc410f768e4"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=776edc9c59569c077e5badbaea96c691"
 
 [[section.link]]
 desc = "Diskrete Strukturen und Logik"
 source = "/dislo"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=0d974e3cfda7b536faed3d17f32c7d45"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=aa2f05511e2df7f2aebf6014238b8614"
 
 [[section.link]]
 desc = "Lineare Algebra I"
 source = "/la1"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=d6f54d7bcafd8528dab6c61dfea95197"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=08e3508ff9ed1d6c0a0787f4181765ab"
 link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=7a6962baafd363f26786ee5fd6b01813"
+
 
 [[section]]
 title = "2. Semester"
@@ -168,7 +169,7 @@ link = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=9c
 [[section.link]]
 desc = "Analysis I"
 source = "/ana1"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=8be63e77d1b81bff688f69632898d833"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=879d388130f09532be57a514811fedd8"
 
 
 [[section]]
@@ -176,17 +177,17 @@ title = "3. Semester"
 [[section.link]]
 desc = "Informatik 3"
 source = "/info3"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=584bdddf75c0a6b7bb57d32c1bd781d1"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=148c0bb713797e5a56e6f71155f9e88c"
 
 [[section.link]]
 desc = "Stochastik für Informatiker"
 source = "/sfi"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=7647effa4556cb2c0cd15660b7d524c3"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=d155c4e909132be5b8c4a00303fd48eb"
 
 [[section.link]]
 desc = "Datenbanksysteme"
 source = "/dbs"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=6b2105e71c11c81c7d56564e4e3e44e8"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=f3c545a7b62f31118150daf6b69df33c"
 
 
 [[section]]
@@ -215,17 +216,17 @@ title = "5. Semester"
 [[section.link]]
 desc = "Kommunikationssysteme"
 source = "/kommsys"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=920442792e8c45155dfec2954a48903f"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=e4e5323f640fd6c9a962fe4885cfc424"
 
 [[section.link]]
 desc = "Softwaretechnik"
 source = "/swt"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=904919b45bd1728967c1916b7e286ca6"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=60acd8cdf7b5248b1e06d3364b1c9503"
 
 [[section.link]]
 desc = "Grundlagen der Signalverarbeitung und des maschinellen Lernens / Multimedia Grundlagen I"
 source = "/svml"
-target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=6059244ef1ed9d091408a592513e1249"
+target = "https://digicampus.uni-augsburg.de/dispatch.php/course/details?sem_id=52f9d1add772abe35cc31274d73d5c1a"
 
 
 [[section]]
@@ -333,3 +334,5 @@ target = "https://forms.gle/NZbYzEsBJ6aJf5Hh8"
 desc = "Anmeldung Pubquiz"
 source = "/pubquiz"
 target = "https://docs.google.com/forms/d/e/1FAIpQLSe8640ciO2pfSzE6M2YUtwBXXSwUNvamvFvYpNisMTHQ_R0OQ/viewform?usp=sf_link"
+
+
