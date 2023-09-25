@@ -21,6 +21,11 @@ source = "/vibs"
 target = "https://vibs.uni-augsburg.de"
 
 [[section.link]]
+desc = "VPN"
+source = "/vpn"
+target = "https://www.uni-augsburg.de/de/organisation/einrichtungen/rz/it-services/uaux/wlan/vpn/"
+
+[[section.link]]
 desc = "eduroam"
 source = "/eduroam"
 target = "https://confluence.rz.uni-augsburg.de/display/RZSER/Nutzung+von+eduroam#Nutzungvoneduroam-HiergehteszudenAnleitungenf%C3%BCrdieverschiedenenBetriebssysteme:"
