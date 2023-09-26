@@ -23,7 +23,7 @@ target = "https://vibs.uni-augsburg.de"
 [[section.link]]
 desc = "VPN"
 source = "/vpn"
-target = "https://www.uni-augsburg.de/de/organisation/einrichtungen/rz/it-services/uaux/wlan/vpn/"
+target = "https://confluence.rz.uni-augsburg.de/x/GIIo"
 
 [[section.link]]
 desc = "eduroam"
