@@ -100,12 +100,6 @@ desc = "Beratungsangebote"
 source = "/beratung"
 target = "https://www.uni-augsburg.de/de/studium/organisation-beratung/beratung/"
 
-[[section.link]]
-desc = "Mario Kart Turnier"
-source = "/mariokart"
-target = "https://fachschaft-info.de/mariokart/"
-
-
 [[section]]
 title = "1. Semester"
 [[section.link]]
