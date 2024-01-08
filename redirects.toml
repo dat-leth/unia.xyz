@@ -318,3 +318,8 @@ target = "https://forms.gle/NZbYzEsBJ6aJf5Hh8"
 desc = "Anmeldung Pubquiz"
 source = "/pubquiz"
 target = "https://docs.google.com/forms/d/e/1FAIpQLSe8640ciO2pfSzE6M2YUtwBXXSwUNvamvFvYpNisMTHQ_R0OQ/viewform?usp=sf_link"
+
+[[section.link]]
+desc = "Anmeldung Neujahrs Cup (Mario Kart 8)"
+source = "/mariokart"
+target = "https://forms.gle/mUhLXwqiBvK1Bgn37"
