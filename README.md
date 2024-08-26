@@ -1,3 +1,7 @@
+
+> [!IMPORTANT]  
+> This project is no longer maintained by me and is now managed by the Fachschaft Informatik (asinf). For further information, please visit https://github.com/asinf/unia.xyz.
+
 # unia.xyz
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d1c85854-db0d-4443-bb71-670d13fa61b2/deploy-status)](https://app.netlify.com/sites/unia/deploys)
 
